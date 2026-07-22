@@ -1,0 +1,32 @@
+{
+  "name": "Lead",
+  "type": "object",
+  "properties": {
+    "name": {
+      "type": "string"
+    },
+    "email": {
+      "type": "string",
+      "format": "email"
+    },
+    "phone": {
+      "type": "string"
+    },
+    "message": {
+      "type": "string"
+    },
+    "interest": {
+      "type": "string",
+      "enum": [
+        "buying",
+        "selling",
+        "both"
+      ],
+      "default": "buying"
+    }
+  },
+  "required": [
+    "name",
+    "email"
+  ]
+}
