@@ -4,7 +4,7 @@ import { Phone, Mail, MapPin, ExternalLink } from "lucide-react";
 const contacts = [
   { icon: Phone, label: "Pete Rahm", value: "(219) 617-0654", href: "tel:2196170654" },
   { icon: Phone, label: "Erica Johnson", value: "(813) 817-4934", href: "tel:8138174934" },
-  { icon: Mail, label: "Pete's Email", value: "Prahm@gmail.com", href: "mailto:Prahm@gmail.com" },
+  { icon: Mail, label: "Pete's Email", value: "Prahm@comcast.net", href: "mailto:Prahm@comcast.net" },
   { icon: Mail, label: "Erica's KW Email", value: "Erjohnson@kw.com", href: "mailto:Erjohnson@kw.com" },
   { icon: MapPin, label: "Office", value: "307 West Buffalo St, New Buffalo, MI 49117", href: "https://maps.google.com/?q=307+West+Buffalo+Street+New+Buffalo+MI+49117" },
 ];
