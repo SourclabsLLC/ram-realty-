@@ -79,8 +79,8 @@ export default function Footer() {
               <a href="tel:8138174934" className="flex items-center gap-2 hover:opacity-80">
                 <Phone size={14} style={{ color: "#C9A84C" }} /> Erica: (813) 817-4934
               </a>
-              <a href="mailto:Prahm@gmail.com" className="flex items-center gap-2 hover:opacity-80">
-                <Mail size={14} style={{ color: "#C9A84C" }} /> Prahm@gmail.com
+              <a href="mailto:Prahm@comcast.net" className="flex items-center gap-2 hover:opacity-80">
+                <Mail size={14} style={{ color: "#C9A84C" }} /> Prahm@comcast.net
               </a>
               <a href="mailto:Erjohnson@kw.com" className="flex items-center gap-2 hover:opacity-80">
                 <Mail size={14} style={{ color: "#C9A84C" }} /> Erjohnson@kw.com
