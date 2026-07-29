@@ -14,12 +14,12 @@ const team = [
   },
   {
     name: "Sue Rahm",
-    title: "Broker/Owner",
+    title: "Assistant",
     phone: "(219) 617-0654",
     email: "Prahm@comcast.net",
     bio: "Born and raised in Harbor Country, Sue has watched this region grow and flourish over four decades. Her deep roots translate into nuanced neighborhood knowledge and a warm, personalized service style that clients rave about. Sue specializes in helping families find not just a house, but a true home in the community she loves.",
-    credentials: ["Broker/Owner", "Harbor Country Native", "40+ Years Local", "Client Relations Expert"],
-    icon: Compass,
+      credentials: ["Assistant", "Harbor Country Native", "40+ Years Local", "Client Relations Expert"],
+      icon: Compass,  
   },
   {
     name: "Erica Johnson",
